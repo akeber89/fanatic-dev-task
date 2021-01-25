@@ -250,7 +250,7 @@ body {
 .nav {
   display: flex;
   justify-content: space-between;
-  padding: 15px 20px;
+  padding: 15px 50px;
 }
 
 .header-right {
@@ -297,6 +297,7 @@ body {
 .info-grid {
   display: inline-grid;
   grid-template-columns: 1fr 1fr;
+  padding: 0 50px;
   grid-template-rows: max-content;
 }
 
